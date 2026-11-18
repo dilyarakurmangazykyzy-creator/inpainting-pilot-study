@@ -1,11 +1,11 @@
 # Classical vs Diffusion-Based Image Inpainting for Photo Restoration — a Pilot Study
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/inpainting-pilot-study/blob/main/notebooks/inpainting_pilot_study.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dilyarakurmangazykyzy-creator/inpainting-pilot-study/blob/main/notebooks/inpainting_pilot_study.ipynb)
 
 **Authors:** Dilyara Kurmangazykyzy, Saule Karimova  
 **Group:** BDA-2405, Astana IT University  
 **Supervisor:** Karashbaeva Zhanat  
-**Course:** RMT (mini-diploma), 2026
+**Course:** RMT, 2026
 
 This repository contains the code, results, figures, paper and poster of a pilot study that compares three image-inpainting methods on damaged photographs:
 
@@ -138,7 +138,7 @@ The notebook then:
 ### Option 2: command line (local machine with a CUDA GPU)
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/inpainting-pilot-study.git
+git clone https://github.com/dilyarakurmangazykyzy-creator/inpainting-pilot-study.git
 cd inpainting-pilot-study
 pip install -r requirements.txt
 git clone https://github.com/zsyOAOA/ResShift.git          # official diffusion model code
@@ -203,7 +203,7 @@ If you use this code or these results, please cite:
   title  = {Comparison of Classical and Diffusion-Based Image Inpainting Methods for Photo Restoration: A Pilot Study},
   year   = {2026},
   note   = {Astana IT University},
-  howpublished = {\url{https://github.com/YOUR_GITHUB_USERNAME/inpainting-pilot-study}}
+  howpublished = {\url{https://github.com/dilyarakurmangazykyzy-creator/inpainting-pilot-study}}
 }
 ```
 

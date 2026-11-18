@@ -1,0 +1,9 @@
+python                3.13.16
+torch            2.11.0+cu130
+opencv                  5.0.0
+scikit-image           0.25.2
+numpy                   2.1.3
+gpu                  Tesla T4
+gpu_memory_GB            15.6
+cpu                    x86_64
+cpu_threads                 2

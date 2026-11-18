@@ -1,0 +1,18 @@
+# Tested on Google Colab (Python 3.13, CUDA GPU). A CUDA GPU is needed for ResShift and LPIPS.
+# ResShift itself is not a pip package: clone https://github.com/zsyOAOA/ResShift next to the notebook.
+torch>=2.1
+torchvision
+numpy
+pandas
+scipy
+matplotlib
+opencv-python
+scikit-image
+lpips
+omegaconf
+loguru
+loralib
+einops
+timm
+albumentations
+basicsr

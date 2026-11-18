@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large or downloaded files (recreated by the notebook)
+ResShift/
+weights/
+*.pth
+source_photos/
+inpainting_results.zip
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs of scripts/run_experiment.py and scripts/make_report_figures.py
+outputs/

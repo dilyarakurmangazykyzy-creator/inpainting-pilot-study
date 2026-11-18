@@ -16,3 +16,4 @@ einops
 timm
 albumentations
 basicsr
+pillow

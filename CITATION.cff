@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Comparison of Classical and Diffusion-Based Image Inpainting Methods for Photo Restoration: A Pilot Study"
+authors:
+  - family-names: Kurmangazykyzy
+    given-names: Dilyara
+    affiliation: Astana IT University
+  - family-names: Karimova
+    given-names: Saule
+    affiliation: Astana IT University
+year: 2026
+license: MIT
+keywords:
+  - image inpainting
+  - photo restoration
+  - diffusion models
+  - ResShift
+  - Navier-Stokes
+  - Criminisi
